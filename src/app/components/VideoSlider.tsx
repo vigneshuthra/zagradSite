@@ -1,6 +1,6 @@
 "use client";
 import React from 'react';
-import { delay, motion } from 'framer-motion'; // Ensure this import is correct
+import { motion } from 'framer-motion'; // Ensure this import is correct
 
 const VideoSlider = () => {
 
