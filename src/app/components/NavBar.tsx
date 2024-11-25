@@ -21,8 +21,8 @@ const NavBar = () => {
         {/* Desktop Menu */}
         <div className="hidden menuTab w-full lg:flex flex-row items-center space-x-10 justify-end">
           <div>About</div>
-          <div>What We Do</div>
-          <div>Gallery</div>
+          <div>Projects</div>
+          <div>Services</div>
           <div>Contact</div>
         </div>
 
@@ -52,8 +52,8 @@ const NavBar = () => {
         </div>
         <div className="flex flex-col items-start p-6 space-y-4">
           <a href="#about" className="text-lg">About</a>
-          <a href="#what-we-do" className="text-lg">What We Do</a>
-          <a href="#gallery" className="text-lg">Gallery</a>
+          <a href="#projects" className="text-lg">Projects</a>
+          <a href="#services" className="text-lg">Services</a>
           <a href="#contact" className="text-lg">Contact</a>
         </div>
       </div>
